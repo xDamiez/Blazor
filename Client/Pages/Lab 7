@@ -1,0 +1,6 @@
+@page "/Lab7"
+
+<PageTitle>Lab 7</PageTitle>
+
+<h1>Hi Jeff!</h1>
+This is the custom page I made after deploying a Blazor app in Azure Static Web Apps
